@@ -65,7 +65,7 @@ Nmap version 7.x.x ( https://nmap.org )
 To launch the network scanner, simply run:
 
 ```sh
-python network_scanner.py
+python main.py
 ```
 
 ### How to Use the Tool
